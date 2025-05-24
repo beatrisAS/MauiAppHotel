@@ -2,7 +2,7 @@
 
 ![.NET 7](https://img.shields.io/badge/.NET-7.0-blueviolet)  
 ![MAUI](https://img.shields.io/badge/Mobile-MAUI-ff69b4)  
-![Status](https://img.shields.io/badge/Status-Concluído-brightgreen)
+![Status](https://img.shields.io/badge/Status-Concluído-brightgreen)      
 ![License](https://img.shields.io/badge/Licença-MIT-blue)  
 
 **Repositório do aplicativo de reservas** desenvolvido para o projeto *Sistema de Gestão Hoteleira* da disciplina *Desenvolvimento de Sistemas II*.  
