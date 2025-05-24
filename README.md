@@ -21,7 +21,7 @@ Aplicativo para reserva de suítes, com cálculo automático de diárias, seleç
 Sistema de reservas para hotel com as seguintes funcionalidades:  
 
 - **Cadastro de hóspedes** (adultos e crianças)  
-- **Seleção de suítes** (Single, Dupla, Família)  
+- **Seleção de suítes** (Suíte SuperLuxo, Suíte Luxo, Suíte Single, Suíte Crise)  
 - **Cálculo de diárias** com base no período selecionado  
 - **Visualização do valor total** em tempo real  
 
