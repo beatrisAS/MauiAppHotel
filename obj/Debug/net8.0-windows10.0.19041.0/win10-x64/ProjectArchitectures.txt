@@ -1,0 +1,1 @@
+C:\Users\Principal\Downloads\MauiAppHotel\MauiAppHotel\MauiAppHotel.csproj;x64
